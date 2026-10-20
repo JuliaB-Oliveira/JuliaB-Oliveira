@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/julia-brito-oliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn de Julia Oliveira" />
   </a>
+  <a href="mailto:juliaminas81@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail: juliaminas81@gmail.com" />
+  </a>
 </p>
 
 ---
@@ -48,7 +51,7 @@ Projetos acadêmicos desenvolvidos em equipe, dos quais participei:
 
 Sistema em desenvolvimento para autenticação de usuários e controle de uma catraca eletrônica. O projeto conecta identificação por reconhecimento facial e RFID ao gerenciamento de usuários e à liberação de acesso.
 
-**Minha participação:** desenvolvimento do aplicativo em Flutter e integração com o Firebase em colaboração com a equipe.
+**Tecnologias do projeto:** Flutter, Dart e Firebase.
 
 [Acessar repositório →](https://github.com/PUC-Minas-Embarcados-02-2026/Sistemas-embarcados)
 
@@ -58,14 +61,20 @@ Aplicativo colaborativo voltado à descoberta e ao planejamento de viagens, com 
 
 **Tecnologias do projeto:** Flutter, Dart, Provider, Node.js, SQL Server e serviços Azure.
 
+[Acessar repositório →]([https://github.com/PUC-Minas-Embarcados-02-2026/Sistemas-embarcados](https://github.com/mello-felipe/travel-map-social-app))
+
 ### Simulador do algoritmo de Tomasulo
 
 Simulador em C++ para acompanhar, ciclo a ciclo, o escalonamento dinâmico de instruções. O projeto aborda execução fora de ordem, renomeação de registradores, estações de reserva e buffer de reordenação (ROB).
 
-**Tecnologia:** C++ · **Área:** Arquitetura de computadores.
+**Tecnologias do projeto:** C++.
+
+[Acessar repositório →]([https://github.com/PUC-Minas-Embarcados-02-2026/Sistemas-embarcados](https://github.com/PDSjunior17/tomasulo-simulator))
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/julia-brito-oliveira/">Vamos conversar pelo LinkedIn</a>
+  <strong>Vamos conversar?</strong><br />
+  <a href="mailto:juliaminas81@gmail.com">juliaminas81@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/julia-brito-oliveira/">LinkedIn</a> ·
 </p>
