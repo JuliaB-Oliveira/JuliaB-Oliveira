@@ -1,7 +1,8 @@
 <h1 align="center">Julia Oliveira</h1>
 
 <p align="center">
-  <strong>Engenharia de Computação · PUC Minas · 5º período</strong>
+  <strong>Engenharia de Computação · PUC Minas · 5º período</strong><br />
+  Técnica em Informática · IFNMG
 </p>
 
 <p align="center">
@@ -21,9 +22,13 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Computação na PUC Minas, atualmente no 5º período. Minha formação inclui projetos acadêmicos em equipe que conectam desenvolvimento de aplicações, arquitetura de computadores e integração entre software e hardware.
+Sou **técnica em Informática pelo IFNMG** e estudante de **Engenharia de Computação na PUC Minas**, atualmente no **5º período**.
 
-Neste perfil, compartilho os projetos dos quais participo e os conhecimentos que venho construindo ao longo da graduação.
+Minha trajetória em tecnologia começou na formação técnica e continua na graduação, com projetos em equipe que conectam desenvolvimento de aplicações, arquitetura de computadores e integração entre software e hardware.
+
+Além do desenvolvimento de software, minhas áreas de atuação incluem **suporte técnico, redes de computadores, telecomunicações e elaboração de relatórios de dados**.
+
+Neste perfil, compartilho os projetos dos quais participo e os conhecimentos que venho construindo ao longo dessa trajetória.
 
 ## Tecnologias e ferramentas
 
