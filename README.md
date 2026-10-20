@@ -27,7 +27,7 @@ Neste perfil, compartilho os projetos dos quais participo e os conhecimentos que
 
 ## Tecnologias e ferramentas
 
-Linguagens e ferramentas que utilizo ou estou estudando:
+Linguagens e ferramentas que mais utilizo:
 
 <p>
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=58A6FF" alt="C" />
@@ -47,7 +47,7 @@ Linguagens e ferramentas que utilizo ou estou estudando:
 
 Projetos acadêmicos desenvolvidos em equipe, dos quais participei:
 
-### Controle de acesso com reconhecimento facial e RFID
+### PUC Access - Controle de acesso com reconhecimento facial e RFID
 
 Sistema em desenvolvimento para autenticação de usuários e controle de uma catraca eletrônica. O projeto conecta identificação por reconhecimento facial e RFID ao gerenciamento de usuários e à liberação de acesso.
 
