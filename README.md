@@ -50,7 +50,7 @@ Linguagens e ferramentas que mais utilizo:
 
 ## Projetos em destaque
 
-Projetos acadêmicos desenvolvidos em equipe, dos quais participei:
+Alguns dos projetos acadêmicos desenvolvidos em equipe, dos quais participei:
 
 ### PUC Access - Controle de acesso com reconhecimento facial e RFID
 
