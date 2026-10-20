@@ -55,13 +55,13 @@ Sistema em desenvolvimento para autenticação de usuários e controle de uma ca
 
 [Acessar repositório →](https://github.com/PUC-Minas-Embarcados-02-2026/Sistemas-embarcados)
 
-### Trip Nick — Rede social de viagens
+### Trip Nick - Rede social de viagens (Projeto de Destaque Interdisciplinar 2025) 
 
 Aplicativo colaborativo voltado à descoberta e ao planejamento de viagens, com proposta de reunir pontos de interesse, avaliações, listas de destinos e publicações da comunidade.
 
 **Tecnologias do projeto:** Flutter, Dart, Provider, Node.js, SQL Server e serviços Azure.
 
-[Acessar repositório →]([https://github.com/PUC-Minas-Embarcados-02-2026/Sistemas-embarcados](https://github.com/mello-felipe/travel-map-social-app))
+[Acessar repositório →](https://github.com/mello-felipe/travel-map-social-app)
 
 ### Simulador do algoritmo de Tomasulo
 
@@ -69,7 +69,7 @@ Simulador em C++ para acompanhar, ciclo a ciclo, o escalonamento dinâmico de in
 
 **Tecnologias do projeto:** C++.
 
-[Acessar repositório →]([https://github.com/PUC-Minas-Embarcados-02-2026/Sistemas-embarcados](https://github.com/PDSjunior17/tomasulo-simulator))
+[Acessar repositório →](https://github.com/PDSjunior17/tomasulo-simulator)
 
 ---
 
