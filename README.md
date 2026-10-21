@@ -1,4 +1,4 @@
-<h1 align="center">Julia Oliveira</h1>
+<h1 align="center">Julia Brito Oliveira</h1>
 
 <p align="center">
   <strong>Engenharia de Computação · PUC Minas · 5º período</strong><br />
