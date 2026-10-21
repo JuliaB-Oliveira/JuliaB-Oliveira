@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julia-brito-oliveira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDEyOCAxMjgiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMTYgM0gxMmE4LjkxIDguOTEgMCAwMC05IDguOHYxMDQuNDJhOC45MSA4LjkxIDAgMDA5IDguNzhoMTA0YTguOTMgOC45MyAwIDAwOS04LjgxVjExLjc3QTguOTMgOC45MyAwIDAwMTE2IDN6TTM5LjE3IDEwN0gyMS4wNlY0OC43M2gxOC4xMXptLTktNjYuMjFhMTAuNSAxMC41IDAgMTExMC40OS0xMC41IDEwLjUgMTAuNSAwIDAxLTEwLjU0IDEwLjQ4ek0xMDcgMTA3SDg4Ljg5Vjc4LjY1YzAtNi43NS0uMTItMTUuNDQtOS40MS0xNS40NHMtMTAuODcgNy4zNi0xMC44NyAxNVYxMDdINTAuNTNWNDguNzNoMTcuMzZ2OGguMjRjMi40Mi00LjU4IDguMzItOS40MSAxNy4xMy05LjQxQzEwMy42IDQ3LjI4IDEwNyA1OS4zNSAxMDcgNzV6Ii8%2BPC9zdmc%2B" alt="LinkedIn de Julia Oliveira" />
+    <img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDEyOCAxMjgiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMTYgM0gxMmE4LjkxIDguOTEgMCAwMC05IDguOHYxMDQuNDJhOC45MSA4LjkxIDAgMDA5IDguNzhoMTA0YTguOTMgOC45MyAwIDAwOS04LjgxVjExLjc3QTguOTMgOC45MyAwIDAwMTE2IDN6TTM5LjE3IDEwN0gyMS4wNlY0OC43M2gxOC4xMXptLTktNjYuMjFhMTAuNSAxMC41IDAgMTExMC40OS0xMC41IDEwLjUgMTAuNSAwIDAxLTEwLjU0IDEwLjQ4ek0xMDcgMTA3SDg4Ljg5Vjc4LjY1YzAtNi43NS0uMTItMTUuNDQtOS40MS0xNS40NHMtMTAuODcgNy4zNi0xMC44NyAxNVYxMDdINTAuNTNWNDguNzNoMTcuMzZ2OGguMjRjMi40Mi00LjU4IDguMzItOS40MSAxNy4xMy05LjQxQzEwMy42IDQ3LjI4IDEwNyA1OS4zNSAxMDcgNzV6Ii8%2BPC9zdmc%2B" alt="LinkedIn de Julia Oliveira" />
   </a>
   <a href="mailto:juliaminas81@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail: juliaminas81@gmail.com" />
+    <img src="https://img.shields.io/badge/E--mail-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail: juliaminas81@gmail.com" />
   </a>
 </p>
 
