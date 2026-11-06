@@ -22,7 +22,7 @@
 
 ## Sobre mim
 
-Sou **técnica em Informática pelo IFNMG** e estudante de **Engenharia de Computação na PUC Minas**, atualmente no **5º período**.
+Sou **técnica em Informática pelo IFNMG** e estudante de **Engenharia de Computação na PUC Minas**, atualmente no **6º período**.
 
 Minha trajetória em tecnologia começou na formação técnica e continua na graduação, com projetos em equipe que conectam desenvolvimento de aplicações, arquitetura de computadores e integração entre software e hardware.
 
